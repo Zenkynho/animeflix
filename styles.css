@@ -46,12 +46,13 @@
 .titulo1 {
     color: white;
 }
-.hashtag {
-    color:white;
-}
 body {
     background-color: #1c1c1c;
 }
 section {
-    background: #242323c9;
+    background: #3f3e3e;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
