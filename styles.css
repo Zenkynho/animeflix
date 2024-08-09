@@ -45,9 +45,11 @@
 }
 .titulo1 {
     color: white;
+    display: flex;
 }
 .hashtagg {
     color: white;
+    
 }
 body {
     background-color: #1c1c1c;
