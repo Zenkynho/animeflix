@@ -46,6 +46,7 @@
 .titulo1 {
     color: white;
     font-size: 40px;
+    margin-right: 20px;
 }
 .hashtagg {
     color: white;
@@ -58,7 +59,7 @@
 body {
     background-color: #1c1c1c;
 }
-section {
+.secao1 {
     background: #3f3e3e;
     padding-bottom: 30px;
     padding-top: 20px;
