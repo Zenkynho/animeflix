@@ -39,7 +39,7 @@
     padding: 5px 10px;
     border: none;
     border-radius: 3px;
-    background-color: #ff6347;
+    background-color: #df0d0d;
     color: white;
     cursor: pointer;
 }
@@ -72,9 +72,10 @@ section {
 }
 
 .categoria {
+    display: flex;
     padding-left: 20px;
     padding-right: 20px;
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 .categoria-videos img {
