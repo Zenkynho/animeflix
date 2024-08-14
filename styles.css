@@ -55,6 +55,7 @@ body {
 }
 .secao1-texto {
     margin-right: 5%;
+    color: white;
 }
 h1 {
     font-size: 40px;
@@ -86,4 +87,5 @@ p {
 
 .categoria h2 {
     color: white;
+    font-size: 40px;
 }
