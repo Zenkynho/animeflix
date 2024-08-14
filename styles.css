@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 .header {
     display: flex;
     align-items: center;
@@ -55,13 +56,14 @@ body {
 }
 .secao1-texto {
     margin-right: 5%;
-    color: white;
 }
 h1 {
     font-size: 40px;
+    color: white;
 }
 p {
     font-size: 20px;
+    color: white;
 }
 .categoria-videos {
     display: flex;
@@ -88,4 +90,6 @@ p {
 .categoria h2 {
     color: white;
     font-size: 40px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
 }
