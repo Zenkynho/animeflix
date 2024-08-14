@@ -43,19 +43,6 @@
     color: white;
     cursor: pointer;
 }
-.titulo1 {
-    color: white;
-    font-size: 40px;
-    margin-right: 20px;
-}
-.hashtagg {
-    color: white;
-    font-size: 20px;
-}
-.titcentral {
-    display: flex;
-    flex-direction: column;
-}
 body {
     background-color: #1c1c1c;
 }
@@ -66,6 +53,15 @@ body {
     display: flex;
     justify-content: center;
 }
+.secao1-texto {
+    margin-right: 5%;
+}
+h1 {
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
 .categoria-videos {
     display: flex;
     overflow-x: auto;
@@ -73,10 +69,9 @@ body {
 }
 
 .categoria {
-    display: flex;
     padding-left: 20px;
     padding-right: 20px;
-    margin-top: 80px;
+    margin-top: 70px;
 }
 
 .categoria-videos img {
